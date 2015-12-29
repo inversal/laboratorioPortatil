@@ -2,9 +2,9 @@
 
 Laboratorio portátil de bajo coste basado en ARM.
 
-Sería algo como esto http://techreport.com/forums/viewtopic.php?f=29&t=115501 , pero no tan "bestia"
+Sería algo como esto http://techreport.com/forums/viewtopic.php?f=29&t=115501 , pero no tan grande 
 
-Las ideas iniciales de uso son las siguientes, aunque todas las ideas son bienvenidas :-)
+Aunque todas las ideas son bienvenidas :-), las ideas iniciales son:
 
 - Open vSwitch (SDN): http://vk5tu.livejournal.com/51207.html
 
@@ -21,12 +21,15 @@ Las ideas iniciales de uso son las siguientes, aunque todas las ideas son bienve
 
 Materiales:
 
-3 raspberry pi2
-1 Cargador USB http://amzn.to/1Hkud5O
+- 3 raspberry pi2
+- 1 Cargador USB http://amzn.to/1Hkud5O
+
+
 
 TODO
+====
 
-Ver forma de fijarla a una maleta
-Sacar display/luces para ver estados
-Autonomía ¿baterías?
+- Ver forma de fijarla a una maleta
+- Sacar display/luces para ver estados
+- Autonomía ¿baterías?
 
