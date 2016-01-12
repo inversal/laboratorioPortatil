@@ -1,6 +1,6 @@
 # wiLaboratorioPortatil
 
-Laboratorio portátil de bajo coste basado en ARM.
+Laboratorio portátil de bajo coste basado en ARM (Odroid, Rasp)
 
 Sería algo como esto http://techreport.com/forums/viewtopic.php?f=29&t=115501 , pero no tan grande 
 
@@ -29,6 +29,7 @@ Materiales:
 TODO
 ====
 
+- @jmcerrejon, ver ¡Odroid!
 - Ver forma de fijarla a una maleta
 - Sacar display/luces para ver estados
 - Autonomía ¿baterías?
