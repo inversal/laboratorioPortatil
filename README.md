@@ -1,4 +1,4 @@
-# wiLaboratorioPortatil
+# laboratorioPortatil
 
 Laboratorio portátil de bajo coste basado en ARM (Odroid, Rasp)
 
