@@ -23,6 +23,7 @@ Materiales:
 
 - 3 raspberry pi2
 - 1 Cargador USB http://amzn.to/1Hkud5O
+- Maleta http://www.milanuncios.com/cds-cintas-y-vinilos/maletas-de-aluminio-para-50-lps-en-30-163437819.htm
 
 
 
