@@ -33,5 +33,6 @@ TODO
 - @jmcerrejon, ver ¡Odroid!
 - Ver forma de fijarla a una maleta
 - Sacar display/luces para ver estados
-- Autonomía ¿baterías?
-
+- Hacer el calculo de consumo maximo de cada nodo para ver si es factible conectar una bateria ( Lipo, Plomo ) 
+- @mrgastoso - diseñar un panel de control para mostrar el consumo de corriente, cpu, mem, etc de cada nodo del cluster
+- @mrgastoso - estudiar el sistema de distribucion de energia de cada nodo con una fuente ATX estandard
